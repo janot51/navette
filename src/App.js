@@ -1,1 +1,1 @@
-aW1wb3J0IFJlYWN0IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgQ2xvY2ssIEFycm93UmlnaHQgfSBmcm9tICdsdWNpZGUtcmVhY3QnOwoKY29uc3QgQVBJX1VSTCA9ICdodHRwczovL25hdmV0dGUtdGFtLm9ucmVuZGVyLmNvbSc7Cgpjb25zdCBOYXZldHRlQXBwID0gKCkgPT4ge307Cgpleport default NavetteApp;
+import React, { useState, useEffect } from 'react';\nimport { Clock, ArrowRight } from 'lucide-react';\n\nconst API_URL = 'https://navette-tam.onrender.com';\n\nconst NavetteApp = () => {};\n\nexport default NavetteApp;
