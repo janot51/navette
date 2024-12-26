@@ -1,1 +1,1 @@
-import React, { useState, useEffect } from 'react';\nimport { Clock, ArrowRight } from 'lucide-react';\n\nconst API_URL = 'https://navette-tam.onrender.com';\n\nconst NavetteApp = () => {};\n\nexport default NavetteApp;
+{"type": "file", "content": "import React, { useState, useEffect } from 'react';\nimport { Clock, ArrowRight } from 'lucide-react';\n\nconst API_URL = 'https://navette-tam.onrender.com';\n\nconst NavetteApp = () => {};\n\nexport default NavetteApp;"}
